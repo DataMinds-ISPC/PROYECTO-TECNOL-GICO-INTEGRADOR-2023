@@ -1,4 +1,4 @@
-# PROYECTO-TECNOL-GICO-INTEGRADOR-2023
+# DataMinds PROYECTO-TECNOLGICO-INTEGRADOR-2023
 Ayán	María Trinidad	mariatrinidadayan@gmail.com	https://github.com/triniayan
 Benavídez	Laila Ayelén	benavidezlaila@gmail.com	https://github.com/Laila-Benavidez
 NUESCH	Christian Simón Alejandro	zamayonero@gmail.com	https://github.com/naitsirh
