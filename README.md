@@ -1,9 +1,9 @@
 # DataMinds PROYECTO-TECNOLGICO-INTEGRADOR-2023
-Ayán	María Trinidad	mariatrinidadayan@gmail.com	https://github.com/triniayan
-Benavídez	Laila Ayelén	benavidezlaila@gmail.com	https://github.com/Laila-Benavidez
-NUESCH	Christian Simón Alejandro	zamayonero@gmail.com	https://github.com/naitsirh
-Trujillo	María Celeste	celestetru@hotmail.com	https://github.com/CeleTru
-Escalante Agüero	María Fernanda	ferescalante86@gmail.com	https://github.com/FerEscalante86
-Marcolini	León	leon.marcolini@gmail.com	https://github.com/LeonMarcolini
-giordano	ariel eduardo	giordanoariel75@gmail.com	https://github.com/GIORDIAR
-Herrera	Édgar	edgarherrera849@gmail.com
+Ayán	María Trinidad	
+Benavídez	Laila Ayelén	
+NUESCH	Christian Simón Alejandro
+Trujillo	María Celeste	
+Escalante Agüero	María Fernanda	
+Marcolini	León	
+giordano	ariel eduardo	
+Herrera	Édgar	
