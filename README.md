@@ -1,5 +1,6 @@
 # DataMinds PROYECTO-TECNOLGICO-INTEGRADOR-2023
 
+
 |Ayán	María Trinidad      |
 --------------------------
 |Benavídez	Laila Ayelén	  |
