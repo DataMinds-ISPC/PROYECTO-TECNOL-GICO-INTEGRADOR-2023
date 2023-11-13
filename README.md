@@ -7,7 +7,7 @@
 	|https://drive.google.com/file/d/13cdug8CSGo_DsJNiu8_bwNs5DceQV_X2/view?usp=drive_link /video del grupo
 
 
-<h1 align="center"> MENTEDATOS </DATAMINDS</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> dataminds </DATAMINDS</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Grupo+de+trabajo..&hearts;++;Comercio+Exterior+de+Argentina,;Ciencia+de+Datos,;Laila+Benavidez,;Leon+Marcolini,;Ariel+Giordano,;Trinidad+Ayan,;Chistian+Nuesch,;Fernanda+Escalante,;Edgar+Herrera,;Love+to+learn+new+stuffs..<3"></a>
