@@ -42,7 +42,7 @@
 - Marcoloni Leon
 - Giordano	Ariel eduardo
 - Herrera	Édgar
--Trujillo	María Celeste []()
+- Trujillo	María Celeste []()
 
 <br><br>
 
@@ -104,7 +104,7 @@
 
 <a href="https://github/">
   <img src="https://github-" width="450"/>
-  <img src="https://github-"  alt="0xabdulkhalid"/>
+  <img src="https://github-"  alt=""/>
 
 </a>
 </div>
