@@ -42,7 +42,7 @@
 - Marcoloni Leon
 - Giordano	Ariel eduardo
 - Herrera	Édgar
-- []()
+-Trujillo	María Celeste []()
 
 <br><br>
 
