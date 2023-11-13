@@ -1,19 +1,10 @@
 # DataMinds PROYECTO-TECNOLGICO-INTEGRADOR-2023
 
 
-||Ayán	María Trinidad      |
+||      |
 
-#||Benavídez	Laila Ayelén	  |
-|
-||NUESCH	Christian Simón Alejandro|
-|
-||Escalante Agüero	María Fernanda	|
-|
-||Marcolini	León	|
-|
-||giordano	ariel eduardo	|
-|
-#||Herrera	Édgar	|https://drive.google.com/file/d/13cdug8CSGo_DsJNiu8_bwNs5DceQV_X2/view?usp=drive_link /video del grupo
+||	  |
+	|https://drive.google.com/file/d/13cdug8CSGo_DsJNiu8_bwNs5DceQV_X2/view?usp=drive_link /video del grupo
 
 
 <h1 align="center">< DATAMINDS ></DATAMINDS></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
