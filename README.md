@@ -34,22 +34,14 @@
 
 <br>
 
-- ||Ayán	María Trinidad      |
 
-|Benavídez	Laila Ayelén	  |
-|
-|NUESCH	Christian Simón Alejandro|
-|
- Escalante Agüero	María Fernanda	|
-|
-||Marcolini	León	|
-|
-||giordano	ariel eduardo	|
-|
-#||Herrera	Édgar
-- 
-- 
-- 
+- Ayán	María Trinidad 
+- Benavídez	Laila Ayelén
+- Nuesch	Christian Simón Alejandro
+- Escalante Agüero	María Fernanda	
+- Marcoloni Leon
+- Giordano	Ariel eduardo
+- Herrera	Édgar
 - []()
 
 <br><br>
